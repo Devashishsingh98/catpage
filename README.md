@@ -4,5 +4,5 @@
 
 ### Follow these guideline to make it your own
 * In terminal (git clone <copy_link>)
-* Edit it as you like 
+* Edit it as you like .
 * Create a pull request.
